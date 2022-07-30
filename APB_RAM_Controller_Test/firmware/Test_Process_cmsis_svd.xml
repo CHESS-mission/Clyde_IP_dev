@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<device>
+  <name>Test_Process</name>
+  <version>1.0</version>
+  <description>CMSIS description for Test_Process.  Created by Microsemi SmartDesign on Sat Jul 30 20:24:54 2022</description>
+  <addressUnitBits>8</addressUnitBits>
+  <width>32</width>
+  <peripherals>
+  </peripherals>
+</device>

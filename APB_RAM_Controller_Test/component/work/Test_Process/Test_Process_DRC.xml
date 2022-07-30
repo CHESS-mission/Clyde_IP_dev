@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>Test_Process</header>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin COREABC_0:PRESETN</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/Test_Process/pins/COREABC_0:PRESETN</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output bus pin COREABC_0:IO_OUT[0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/Test_Process/pins/COREABC_0:IO_OUT</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Unconnected Bus Interface</message>
+    <detail>Unconnected bus interface pin CoreAPB3_0:APBmslave0</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/Test_Process/pins/CoreAPB3_0:APBmslave0</crossprobe>
+  </drc>
+</drcreport>

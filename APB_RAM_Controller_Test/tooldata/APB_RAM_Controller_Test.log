@@ -1,0 +1,16 @@
+Project Name: APB_RAM_Controller_Test
+Location: C:\Users\micha\SynologyDrive\Engineering\Projects\CHESS OBC\SoC\LiberoProjects\APB_RAM_Controller_Test
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : A3P125-TQ144
+Family         : ProASIC3
+Die            : A3P125
+Package        : 144 TQFP
+Speed          : STD
+Core Voltage   : 1.5
+Range          : COM

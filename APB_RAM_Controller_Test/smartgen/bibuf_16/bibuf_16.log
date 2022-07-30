@@ -1,0 +1,39 @@
+ ** Message System Log
+ ** Database: 
+ ** Date:   Sat Jul 30 17:33:23 2022
+
+
+****************
+Macro Parameters
+****************
+
+Name                            : bibuf_16
+Family                          : PA3LC
+Output Format                   : VERILOG
+Type                            : Bi-directional Buffers
+Variation                       : Pull-up
+Enable Polarity                 : Active Low
+Width                           : 16
+Technology                      : LVCMOS33U
+
+**************
+Compile Report
+**************
+
+
+Netlist Resource Report
+=======================
+
+    CORE                       Used:      1  Total:   3072   (0.03%)
+    IO (W/ clocks)             Used:     16  Total:    100   (16.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      8   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Wrote Verilog netlist to C:/Users/micha/SynologyDrive/Engineering/Projects/CHESS OBC/SoC/LiberoProjects/APB_RAM_Controller_Test/smartgen\bibuf_16\bibuf_16.v.
+
+ ** Log Ended:   Sat Jul 30 17:33:23 2022
+
